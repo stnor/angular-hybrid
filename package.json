@@ -15,7 +15,7 @@
     "@uirouter/angular-hybrid": "9.0.0",
     "TagManager": "https://github.com/max-favilli/tagmanager#d4913d24684b7809351532d884795bb60aeb3683",
     "algebra.js": "0.2.6",
-    "angular": "1.7.5",
+    "angular": "1.8.0",
     "angular-animate": "1.7.5",
     "angular-autodisable": "https://github.com/stnor/angular-autodisable#c8f451f",
     "angular-bootstrap-show-errors": "2.3.0",
