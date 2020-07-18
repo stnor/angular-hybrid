@@ -43,7 +43,7 @@
     "fastclick": "1.0.6",
     "imports-loader": "0.7.1",
     "jquery": "3.4.1",
-    "lodash": "4.17.11",
+    "lodash": "4.17.19",
     "mathjax3": "3.0.0-beta.2",
     "messageformat": "0.3.1",
     "mobile-drag-drop": "2.3.0-rc.0",
